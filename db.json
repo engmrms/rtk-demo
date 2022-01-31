@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Adam Marcus1",
+      "email": "adam123@gmail.com",
+      "contact": "83673677367635",
+      "id": 1
+    },
+    {
+      "name": "Tom Cruise",
+      "email": "tom@gmail.com",
+      "contact": "83786646476",
+      "id": 2
+    },
+    {
+      "name": "James Bond",
+      "email": "james@gmail.com",
+      "contact": "9484785787",
+      "id": 3
+    },
+    {
+      "name": "mohammad saleh",
+      "email": "eng.mrms@gmail.com",
+      "contact": "123456789",
+      "id": 4
+    },
+    {
+      "name": "Adam Marcus1",
+      "email": "mali.c@tetco.sa",
+      "contact": "123456789000",
+      "id": 5
+    }
+  ]
+}
